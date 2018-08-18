@@ -1,0 +1,3 @@
+luke who is married is looking at lisa
+lisa is looking at dan who is not married
+is someone who is married looking at someone who is not married?
